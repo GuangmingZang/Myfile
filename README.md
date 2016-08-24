@@ -7,7 +7,7 @@ hello~sd
 
 |      | 0                                        | 300                                      | 600                                      | 900                                      |
 | :--- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-|      | [0 degree ] <img src = "./projs/original/0.png", height = "100"/> | <img src = "./projs/original/300.png", height = "100"/> | <img src = "./projs/original/600.png", height = "100"/> | <img src = "./projs/original/900.png", height = "100"/> |
+|      | 0 degree \\ <img src = "./projs/original/0.png", height = "100"/> | <img src = "./projs/original/300.png", height = "100"/> | <img src = "./projs/original/600.png", height = "100"/> | <img src = "./projs/original/900.png", height = "100"/> |
 |      |                                          |                                          |                                          |                                          |
 |      |                                          |                                          |                                          |                                          |
 

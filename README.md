@@ -3,15 +3,15 @@ hello ~GitHub~!
 =======
 # Myfile
 
-hello~
+hello~sd
 
+ ![0](projs\original\0.png) ![![1200 - Copy](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927)](projs\original\1200 - Copy.png)
 
-
-|      | 0                         | 300            | 600  | 900  | 1200 |
-| ---- | ------------------------- | -------------- | ---- | ---- | ---- |
-|      | ![](projs\original\0.tif) | [test](sdsdds) |      |      |      |
-|      |                           |                |      |      |      |
-|      |                           |                |      |      |      |
+|                                          | 0    | 300            | 600  | 900  | 1200 |
+| ---------------------------------------- | ---- | -------------- | ---- | ---- | ---- |
+|                                          |      | [test](sdsdds) |      |      |      |
+| ![![1200 - Copy](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927)](projs\original\1200 - Copy.png) |      |                |      |      |      |
+| ![![1200 - Copy](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927)](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927) |      |                |      |      |      |
 
 >>>>>>> origin/master
 >>>>>>> How are you?

@@ -5,7 +5,23 @@ hello ~GitHub~!
 
 hello~sd
 
- ![0](projs\original\0.png) ![![1200 - Copy](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927)](projs\original\1200 - Copy.png)
+ ![0](projs\original\0.png) 
+
+
+
+
+
+![![1200 - Copy](file:///E:/Myfile/projs/original/1200%20-%20Copy.png?lastModify=1472038927)](projs\original\1200 - Copy.png)
+
+
+
+
+
+
+
+ ![0](C:\Users\ZANGG\Desktop\0.png)
+
+
 
 |                                          | 0    | 300            | 600  | 900  | 1200 |
 | ---------------------------------------- | ---- | -------------- | ---- | ---- | ---- |

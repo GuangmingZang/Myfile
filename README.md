@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Test the format. 09 27
 hello ~GitHub~!
 =======
 # Myfile
